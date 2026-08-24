@@ -71,6 +71,30 @@
         ]
       }
     },
+    "beam": {
+      "sha": "bb84f274aa74d60f729525e5aebd505e12ec092f",
+      "version": "1.0.0",
+      "components": {
+        "commands": [
+          {
+            "name": "beam-onboard",
+            "description": "Connect and verify a dedicated Beam MCP tenant"
+          }
+        ],
+        "mcpServers": [
+          {
+            "name": "beam",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "beam",
+            "description": "Use Beam to verify Beam IDs, inspect agent trust metadata, and prepare or send approval-gated agent handoffs through a…"
+          }
+        ]
+      }
+    },
     "chrome-devtools": {
       "sha": "073d4a39e9c96b17936d3cdc4bdea69977f0cca6",
       "version": "1.7.0",

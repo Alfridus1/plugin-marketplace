@@ -266,6 +266,20 @@
       },
       "homepage": "https://github.com/cursor/plugins/tree/main/pstack",
       "keywords": ["pstack", "poteto-mode", "poteto"]
+    },
+    {
+      "name": "beam",
+      "description": "Beam Protocol integration for trusted agent-to-agent collaboration. Verify Beam IDs, inspect public trust metadata, and prepare approval-gated handoffs through a dedicated OAuth-protected MCP tenant.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Beam-directory/beam-protocol.git",
+        "sha": "bb84f274aa74d60f729525e5aebd505e12ec092f",
+        "path": "integrations/grok-build"
+      },
+      "homepage": "https://beam.directory",
+      "keywords": ["beam protocol", "beam id", "beam agent handoff", "beam mcp"],
+      "domains": ["beam.directory", "docs.beam.directory"]
     }
   ]
 }
