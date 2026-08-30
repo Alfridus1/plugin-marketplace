@@ -288,7 +288,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Beam-directory/beam-protocol.git",
-        "sha": "bb84f274aa74d60f729525e5aebd505e12ec092f",
+        "sha": "c3b3499852101d26e67c925f77c7bb6a8c805243",
         "path": "integrations/grok-build"
       },
       "homepage": "https://beam.directory",
